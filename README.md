@@ -1,5 +1,5 @@
 # BrickBreaker
-This is only a simple version brick breaker game based on online resources.
+This is only a simple version brick breaker game based on online resources.<br/>
 (Awais Mirza https://www.youtube.com/watch?v=K9qMm3JbOH0&t=1229s)
 
 Please do not use this project for any commercial purpose.
