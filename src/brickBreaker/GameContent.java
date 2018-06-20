@@ -15,6 +15,10 @@ import javax.swing.JPanel;
 import javax.swing.Timer;
 
 public class GameContent extends JPanel implements KeyListener, ActionListener{
+	/**
+	 * This is raw version. Need A LOT to improve!
+	 */
+	private static final long serialVersionUID = 1L;
 	private boolean play = false;
 	private int score = 0;
 	
